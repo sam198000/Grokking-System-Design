@@ -3,7 +3,7 @@
 ## Scalability
 - The capability of a system to grow and manage increased demand.
 - A system that can continuously evolve to support growing amount of work is scalable.
-- Horizontal scaling: by adding more servers into the pool of resources.
+- Horizontal scaling: by adding more servers into the pool of resources. (load balancer) --- better for large-scale distributed apps
 - Vertical scaling: by adding more resource (CPU, RAM, storage, etc) to an existing server. This approach comes with downtime and an upper limit.
 
 ## Reliability
